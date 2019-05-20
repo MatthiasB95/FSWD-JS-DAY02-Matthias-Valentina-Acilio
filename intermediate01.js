@@ -15,4 +15,4 @@ document.write("<br>")
  	var average = sum / 3
  	return "Sum" + sum + "<br>" + "Average" + average;
  }
- document.write(grad(3,4,5));
+ document.write(grad("s",4,5));
